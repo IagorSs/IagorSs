@@ -1,7 +1,7 @@
 ### Hi there 👋
 I don't know write a ReadMe, don't judge me. 😭
 
-I'm a brazilian student and programmer. I like the area of game development and web development, I actively participate in projects of both areas until decide which one to delve into and specialize in. 😊
+I'm a brazilian student and programmer. I like the area of game development and web development, I actively participate in projects of both areas but I decided that i will specialize in web development, with focus on Node, React, React-native and TypeScript. 😊
 
 <!--
 **IagorSs/IagorSs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
