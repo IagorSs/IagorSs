@@ -4,7 +4,7 @@ Welcome to my profile, sit down and take a coffee.
 
 Here I've made available all the projects I've developed since the beginning of my performance in dev, so you can follow my entire journey over these years.
 
-There were ups and downs but I guarantee that I've never been better than now and I'm still looking for opportunities to develop the most difficult and fun app in the world, myself.
+There were ups and downs but I guarantee that I've never been better than now and I'm still looking for opportunities to develop the most difficult and fun app in the world.
 
 <!--
 **IagorSs/IagorSs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
